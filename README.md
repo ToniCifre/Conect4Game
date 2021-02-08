@@ -35,23 +35,19 @@ You can create your own player by implementing the player and IAuto class.
 AlumneTJ-D3-H1 VS. ProfeP6H1
 ----------------------------
 
-![](./myMediaFolder/media/image1.png){width="3.0972222222222223in"
-height="2.3881944444444443in"}
+![](./myMediaFolder/media/image1.png)
 
 AlumneTJ-D6-H1 VS. ProfeP8H1
 ----------------------------
 
-![](./myMediaFolder/media/image2.png){width="3.21875in"
-height="2.078472222222222in"}
+![](./myMediaFolder/media/image2.png)
 
 ProfeP6H1 VS. AlumneTJ-D3-H2 
 -----------------------------
 
-![](./myMediaFolder/media/image3.png){width="3.7006944444444443in"
-height="2.33125in"}
+![](./myMediaFolder/media/image3.png)
 
 ProfeP8H1 VS. AlumneTJ-D4-H2
 ----------------------------
 
-![](./myMediaFolder/media/image4.png){width="3.2333333333333334in"
-height="2.0548611111111112in"}
+![](./myMediaFolder/media/image4.png)
